@@ -5,7 +5,7 @@
  * @version 3.3.0
  * @since 1.0.0
  * @authored by Naman Vrati
- * @contributed by nassro199
+ * @contributed by TechyGiraffe999 & nassro199
  */
 
 const fs = require("fs");
